@@ -1,0 +1,6 @@
+numpy
+opencv-python
+Pillow
+protobuf==3.20.0
+tensorflow==2.8.0
+psutil
