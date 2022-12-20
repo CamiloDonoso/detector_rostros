@@ -43,3 +43,5 @@ En la interfaz se muestra la imagen capturada y las detecciones de rostros encon
 3. Se puede utilizar GPU en la ejecución del programa, para esto se debe instalar los controladores correspondientes al hardware donde se desenvuelve el programa. La recomendación para la evaluación de la red, no en el entrenamiento, es solo utilizar CPU y desactivar GPU.
 
 4. El uso de GPU se puede habilitar(True) o deshabilitar(False) con la variable **GPU** dentro del código **detector.py**
+
+5. La resolución de la captura de pantalla está ajustada a un monitor de 1920x1080 pixeles.
